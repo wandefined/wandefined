@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**wandefined/wandefined** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Wanderson Felipe e eu sou um entusiasta por Dados.
 
-Here are some ideas to get you started:
+Atualmente sou estagiário em Engenharia de Dados na [Compass.uol](https://compass.uol/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou terminando um Bacharelado em Sistemas de Informação no IF Goiano.
+
+Minhas principais tecnologias são:
+
+[![PYTHON](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=D32D6C)](#)
+[![Spring Badge](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=D32D6C)](#)
+[![Android Badge](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=D32D6C)](#)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=D32D6C)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=D32D6C)](#)
+[![Firebase Badge](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=D32D6C)](#)
